@@ -1,5 +1,7 @@
 # Java Interfaces Example
 
+![UML Diagram](https://github.com/akhilamuppavarapu/javaInterfaceExample/blob/main/classDiagram.png)
+
 Utilizing the aboev image as a reference, do the following tasks:
 
 1.	Write the interface called GeometricObject, which declares two abstract methods: getPerimeter() and getArea(), as specified in the class diagram.
